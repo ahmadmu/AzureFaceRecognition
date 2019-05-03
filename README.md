@@ -12,6 +12,6 @@ Microsoft Face API:
 
 https://azure.microsoft.com/en-us/services/cognitive-services/face/
 
-To get started, you need the `apiEndpoint` and the `subscriptionKey` that you get after signing up to use the API. 
+To get started, you need the `apiEndpoint` and the `subscriptionKey` credentials that you get after signing up to use the API. 
 
-Import the project in your Android Studio, then add the `apiEndpoint` and the `subscriptionKey` to the `MainActivity.java` class, and then start the application (on the virtual machine or an android device).
+Import the project in your Android Studio, then add the `apiEndpoint` and the `subscriptionKey` to the `MainActivity.java` class, and after that start the application (on the virtual machine or an android device).
